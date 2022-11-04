@@ -1,6 +1,6 @@
 
 
-h1{
+h1 ,h2{
  
     color: #A4A400 ;
     background-color: #F0F0F0 ;
@@ -41,12 +41,7 @@ UL abbr{
      list-style-type:none ;
      
 }
-#star{
-background:url(./IMAGES/pie.jpg) no-repeat left top;
-height: 30px;
-padding: 7px;
-padding-left: 44px;
-}
+
 #spa{
      text-decoration: line-through;
 }
@@ -84,4 +79,17 @@ abbr:hover{
      height: 50px;
      padding: 10px;
      width: 90px;
+}
+notthing{
+     list-style: none;
+}
+#photo1{
+     height: 50px;
+     padding: 10px;
+     width: 90px;
+
+}
+#thisol{
+    list-style-type:circle ;
+    
 }
