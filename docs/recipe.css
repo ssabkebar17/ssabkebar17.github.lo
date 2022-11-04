@@ -47,6 +47,10 @@ UL abbr{
 }
 div{
     font-family: monospace;
+   
+}
+.diva{
+     text-align: end;
 }
 blockquote{
     background-color: #FFFFA8 ;
