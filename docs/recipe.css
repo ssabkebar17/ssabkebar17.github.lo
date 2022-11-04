@@ -1,0 +1,87 @@
+
+
+h1{
+ 
+    color: #A4A400 ;
+    background-color: #F0F0F0 ;
+   
+   text-decoration: underline;
+
+    font-family: Lucida Sans Unicode, Helvetica, Arial,sans-serif;
+    margin-left: 18pt;
+    font-weight: normal;
+    letter-spacing: 0.25em;
+   
+}
+ol{
+     line-height: 25px;
+}
+ul{
+     line-height: 25px;
+}
+
+
+footer{
+     font-size: medium;
+     line-height: 1px;
+    
+     
+}
+body{
+     background-color: white;
+     color: #404040 ;
+     font-size: 11pt;
+     font-family:Georgia,Garamond,serif;
+}
+a{
+     color: #A4A400;
+}
+UL abbr{
+     text-decoration: underline;
+     list-style-type:none ;
+     
+}
+#star{
+background:url(./IMAGES/pie.jpg) no-repeat left top;
+height: 30px;
+padding: 7px;
+padding-left: 44px;
+}
+#spa{
+     text-decoration: line-through;
+}
+div{
+    font-family: monospace;
+}
+blockquote{
+    background-color: #FFFFA8 ;
+    font-style: italic;
+}
+body{
+background-image: url(./IMAGES/silverware.jpg);
+background-repeat: space;
+background-position: initial;
+background-size:  300px 300px;
+
+
+}
+body header>h1{
+    
+     font-size: 22pt;
+     font-weight: bold;
+    
+     text-align: center ;
+}
+abbr:hover{
+     font: bold;
+     display: contents;
+     
+}
+.theLink{
+     text-align: end;
+}
+#photo{
+     height: 50px;
+     padding: 10px;
+     width: 90px;
+}
